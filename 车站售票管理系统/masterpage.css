@@ -1,0 +1,24 @@
+﻿body {
+    width:1920px;
+    height:1024px;
+}
+.div-sum{
+    width:100%;
+    height:100%;
+}
+.div-head{
+    width:100%;
+    height:20%;
+}
+.div-body{
+    width:100%;
+    height:80%;
+}
+.div-body-left{
+    width:20%;
+    height:100%;
+}
+.div-body-right{
+    width:80%;
+    height:100%;
+}
